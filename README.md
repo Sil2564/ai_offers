@@ -4,9 +4,7 @@ Analisi delle offerte di lavoro nel settore dell’Intelligenza Artificiale
 basata su un dataset Kaggle aggiornato al 2025.
 
 ## Dataset
-Il dataset utilizzato è disponibile nella cartella `dataset/`:
-- `ai_job_market_2025.csv`
-
+Il dataset utilizzato èikl dataser `ai_job_market_2025.csv`
 Fonte: Kaggle – Global AI Job Market Trend 2025
 
 ## Notebook
